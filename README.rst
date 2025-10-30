@@ -1,11 +1,5 @@
-Part of `edX code`__.
-
-__ http://code.edx.org/
-
-edX Django Release Utilities  |Travis|_ 
-=======================================
-.. |Travis| image:: https://travis-ci.com/edx/edx-django-release-util.svg?branch=master
-.. _Travis: https://travis-ci.com/edx/edx-django-release-util?branch=master
+edX Django Release Utilities
+============================
 
 Release pipeline utilities for edX independently-deployable applications (IDAs) based on Django.
 
@@ -35,7 +29,7 @@ How To Contribute
 
 Contributions are very welcome.
 
-Please read `How To Contribute <https://github.com/openedx/.github/blob/master/CONTRIBUTING.md>`_ for details.
+Please read `How To Contribute <https://docs.openedx.org/en/latest/developers/quickstarts/so_you_want_to_contribute.html>`_ for details.
 
 
 
@@ -43,11 +37,3 @@ Reporting Security Issues
 -------------------------
 
 Please do not report security issues in public. Please email security@openedx.org.
-
-
-Mailing List and IRC Channel
-----------------------------
-
-You can discuss this code in the `edx-code Google Group`__ or in the ``#edx-code`` IRC channel on Freenode.
-
-__ https://groups.google.com/forum/#!forum/edx-code
