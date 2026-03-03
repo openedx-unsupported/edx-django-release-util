@@ -1,11 +1,12 @@
-Part of `edX code`__.
-
-__ http://code.edx.org/
-
 edX Django Release Utilities  |Travis|_ 
 =======================================
 .. |Travis| image:: https://travis-ci.com/edx/edx-django-release-util.svg?branch=master
 .. _Travis: https://travis-ci.com/edx/edx-django-release-util?branch=master
+
+🛑🛑🛑 This repository is no longer being maintaind or supported. 🛑🛑🛑
+
+See https://github.com/openedx/public-engineering/issues/498 for details.
+
 
 Release pipeline utilities for edX independently-deployable applications (IDAs) based on Django.
 
